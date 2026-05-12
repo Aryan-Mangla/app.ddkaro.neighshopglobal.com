@@ -1,0 +1,3 @@
+# Copied to dist/ by Vite — required so deep links do not show Netlify’s “Page not found”.
+# Netlify serves matching static files first; everything else gets index.html (status 200).
+/*    /index.html   200
